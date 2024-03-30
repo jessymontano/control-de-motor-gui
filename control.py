@@ -1,5 +1,4 @@
 from tkinter import Tk, Label, PhotoImage, Button, Canvas
-from PIL import Image
 
 root = Tk()
 root.title("Control de motor")
